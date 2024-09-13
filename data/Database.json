@@ -1,0 +1,644 @@
+{
+  "Building 1": {
+    "address": "SRV - Xuan Dinh, Tay Ho",
+    "floor1": {
+      "anchor": {
+        "anchor1": {
+          "coordinates": {
+            "x": 503.131,
+            "y": 56,
+            "z": 69.88
+          }
+        },
+        "anchor2": {
+          "coordinates": {
+            "x": 894.4,
+            "y": 56,
+            "z": 69.88
+          }
+        },
+        "anchor3": {
+          "coordinates": {
+            "x": 503.131,
+            "y": 392,
+            "z": 69.88
+          }
+        },
+        "anchor4": {
+          "coordinates": {
+            "x": 894.4,
+            "y": 392,
+            "z": 69.88
+          }
+        }
+      },
+      "information": {
+        "address": "SRV - Xuan Dinh, Tay Ho",
+        "name": "Floor 1, G2 Building, UET - VNU"
+      },
+      "product": {
+        "product1": {
+          "coordinates": {
+            "x": 408,
+            "y": 106,
+            "z": 70
+          },
+          "details": {
+            "ID": "1",
+            "building": "SRV - Xuan Dinh, Tay Ho",
+            "customer": "G-Dragon",
+            "floor": 1,
+            "staff": "Lee Min Ho",
+            "tag": "Fairy tales",
+            "time": "2024-03-07",
+            "timeOut": "2024-06-07"
+          }
+        },
+        "product2": {
+          "coordinates": {
+            "x": 461,
+            "y": 236,
+            "z": 70
+          },
+          "details": {
+            "ID": "2",
+            "building": "SRV - Xuan Dinh, Tay Ho",
+            "customer": "G-Dragon",
+            "floor": 1,
+            "staff": "Lee Min Ho",
+            "tag": "Adruino UNO",
+            "time": "2024-03-08",
+            "timeOut": "2024-06-07"
+          }
+        },
+        "product3": {
+          "coordinates": {
+            "x": 557,
+            "y": 177,
+            "z": 70
+          },
+          "details": {
+            "ID": "3",
+            "building": "SRV - Xuan Dinh, Tay Ho",
+            "customer": "G-Dragon",
+            "floor": 1,
+            "staff": "Lee Min Ho",
+            "tag": "Asus Laptop",
+            "time": "2024-03-09",
+            "timeOut": "2024-06-07"
+          }
+        },
+        "product4": {
+          "coordinates": {
+            "x": 157,
+            "y": 177,
+            "z": 70
+          },
+          "details": {
+            "ID": "4",
+            "building": "SRV - Xuan Dinh, Tay Ho",
+            "customer": "G-Dragon",
+            "floor": 1,
+            "staff": "Lee Min Ho",
+            "tag": "Asus Laptop",
+            "time": "2024-03-09",
+            "timeOut": "2024-06-07"
+          }
+        }
+      }
+    },
+    "floor2": {
+      "anchor": {
+        "anchor5": {
+          "coordinates": {
+            "x": 0,
+            "y": 0,
+            "z": 1
+          }
+        },
+        "anchor6": {
+          "coordinates": {
+            "x": 635,
+            "y": 120,
+            "z": 1
+          }
+        },
+        "anchor7": {
+          "coordinates": {
+            "x": 0,
+            "y": 612,
+            "z": 1
+          }
+        },
+        "anchor8": {
+          "coordinates": {
+            "x": 570,
+            "y": 455,
+            "z": 1
+          }
+        }
+      },
+      "information": {
+        "address": "SRV - Xuan Dinh, Tay Ho",
+        "name": "Floor1, G2 Building, UET - VNU"
+      },
+      "product": {
+        "product5": {
+          "coordinates": {
+            "x": 100,
+            "y": 150,
+            "z": 70
+          },
+          "details": {
+            "ID": "5",
+            "building": "SRV - Xuan Dinh, Tay Ho",
+            "customer": "G-Dragon",
+            "floor": 2,
+            "staff": "Lee Min Ho",
+            "tag": "keyboard",
+            "time": "2024-03-12",
+            "timeOut": "2024-06-07"
+          }
+        },
+        "product6": {
+          "coordinates": {
+            "x": 200,
+            "y": 200,
+            "z": 70
+          },
+          "details": {
+            "ID": "6",
+            "building": "SRV - Xuan Dinh, Tay Ho",
+            "customer": "G-Dragon",
+            "floor": 2,
+            "staff": "Lee Min Ho",
+            "tag": "mouse",
+            "time": "2024-07-06",
+            "timeOut": "2024-06-07"
+          }
+        },
+        "product7": {
+          "coordinates": {
+            "x": 300,
+            "y": 300,
+            "z": 70
+          },
+          "details": {
+            "ID": "7",
+            "building": "SRV - Xuan Dinh, Tay Ho",
+            "customer": "G-Dragon",
+            "floor": 2,
+            "staff": "Lee Min Ho",
+            "tag": "monitor",
+            "time": "2023-03-06",
+            "timeOut": "2024-06-07"
+          }
+        },
+        "product8": {
+          "coordinates": {
+            "x": 757,
+            "y": 177,
+            "z": 70
+          },
+          "details": {
+            "ID": "8",
+            "building": "SRV - Xuan Dinh, Tay Ho",
+            "customer": "G-Dragon",
+            "floor": 2,
+            "staff": "Lee Min Ho",
+            "tag": "Asus Laptop",
+            "time": "2024-03-09",
+            "timeOut": "2024-06-07"
+          }
+        }
+      }
+    },
+    "floor3": {
+      "anchor": {
+        "anchor10": {
+          "coordinates": {
+            "x": 635,
+            "y": 120,
+            "z": 1
+          }
+        },
+        "anchor11": {
+          "coordinates": {
+            "x": 0,
+            "y": 612,
+            "z": 1
+          }
+        },
+        "anchor12": {
+          "coordinates": {
+            "x": 570,
+            "y": 455,
+            "z": 1
+          }
+        },
+        "anchor9": {
+          "coordinates": {
+            "x": 0,
+            "y": 0,
+            "z": 1
+          }
+        }
+      },
+      "information": {
+        "address": "SRV - Xuan Dinh, Tay Ho",
+        "name": "Floor1, G2 Building, UET - VNU"
+      },
+      "product": {
+        "product10": {
+          "coordinates": {
+            "x": 310,
+            "y": 210,
+            "z": 70
+          },
+          "details": {
+            "ID": "9",
+            "building": "SRV - Xuan Dinh, Tay Ho",
+            "customer": "G-Dragon",
+            "floor": 3,
+            "staff": "Lee Min Ho",
+            "tag": "jacket",
+            "time": "2021-03-06",
+            "timeOut": "2024-06-07"
+          }
+        },
+        "product11": {
+          "coordinates": {
+            "x": 12,
+            "y": 311,
+            "z": 70
+          },
+          "details": {
+            "ID": "10",
+            "building": "SRV - Xuan Dinh, Tay Ho",
+            "customer": "G-Dragon",
+            "floor": 3,
+            "staff": "Lee Min Ho",
+            "tag": "t-shirt",
+            "time": "2024-03-06",
+            "timeOut": "2024-06-07"
+          }
+        },
+        "product12": {
+          "coordinates": {
+            "x": 557,
+            "y": 177,
+            "z": 70
+          },
+          "details": {
+            "ID": "11",
+            "building": "SRV - Xuan Dinh, Tay Ho",
+            "customer": "G-Dragon",
+            "floor": 3,
+            "staff": "Lee Min Ho",
+            "tag": "Asus Laptop",
+            "time": "2024-03-09",
+            "timeOut": "2024-06-07"
+          }
+        },
+        "product9": {
+          "coordinates": {
+            "x": 100,
+            "y": 50,
+            "z": 70
+          },
+          "details": {
+            "ID": "12",
+            "building": "SRV - Xuan Dinh, Tay Ho",
+            "customer": "G-Dragon",
+            "floor": 3,
+            "staff": "Lee Min Ho",
+            "tag": "jean",
+            "time": "2022-03-06",
+            "timeOut": "2024-06-07"
+          }
+        }
+      }
+    }
+  },
+  "Building 2": {
+    "address": "UET - Xuan Thuy, Cau Giay",
+    "floor1": {
+      "anchor": {
+        "anchor1": {
+          "coordinates": {
+            "x": "0",
+            "y": "0",
+            "z": "1"
+          }
+        },
+        "anchor2": {
+          "coordinates": {
+            "x": 740,
+            "y": 0,
+            "z": 1
+          }
+        },
+        "anchor3": {
+          "coordinates": {
+            "x": 0,
+            "y": 605,
+            "z": 1
+          }
+        },
+        "anchor4": {
+          "coordinates": {
+            "x": 740,
+            "y": 425,
+            "z": 1
+          }
+        }
+      },
+      "information": {
+        "address": "UET - Xuan Thuy, Cau Giay",
+        "name": "Floor1, UET - Xuan Thuy, Cau Giay"
+      },
+      "product": {
+        "product1": {
+          "coordinates": {
+            "x": 12,
+            "y": 130,
+            "z": 70
+          },
+          "details": {
+            "ID": "13",
+            "building": "UET - Xuan Thuy, Cau Giay",
+            "customer": "G-Dragon",
+            "floor": 1,
+            "staff": "Lee Min Ho",
+            "tag": "cake",
+            "time": "2024-03-09",
+            "timeOut": "2024-06-07"
+          }
+        },
+        "product2": {
+          "coordinates": {
+            "x": 310,
+            "y": 210,
+            "z": 70
+          },
+          "details": {
+            "ID": "14",
+            "building": "UET - Xuan Thuy, Cau Giay",
+            "customer": "G-Dragon",
+            "floor": 1,
+            "staff": "Lee Min Ho",
+            "tag": "candy",
+            "time": "2024-03-08",
+            "timeOut": "2024-06-07"
+          }
+        },
+        "product3": {
+          "coordinates": {
+            "x": 12,
+            "y": 311,
+            "z": 70
+          },
+          "details": {
+            "ID": "15",
+            "building": "UET - Xuan Thuy, Cau Giay",
+            "customer": "G-Dragon",
+            "floor": 1,
+            "staff": "Lee Min Ho",
+            "tag": "meat",
+            "time": "2021-04-06",
+            "timeOut": "2024-06-07"
+          }
+        },
+        "product4": {
+          "coordinates": {
+            "x": 557,
+            "y": 177,
+            "z": 70
+          },
+          "details": {
+            "ID": "16",
+            "building": "UET - Xuan Thuy, Cau Giay",
+            "customer": "G-Dragon",
+            "floor": 1,
+            "staff": "Lee Min Ho",
+            "tag": "Asus Laptop",
+            "time": "2024-03-09",
+            "timeOut": "2024-06-07"
+          }
+        }
+      }
+    },
+    "floor2": {
+      "anchor": {
+        "anchor5": {
+          "coordinates": {
+            "x": 0,
+            "y": 0,
+            "z": 1
+          }
+        },
+        "anchor6": {
+          "coordinates": {
+            "x": 635,
+            "y": 120,
+            "z": 1
+          }
+        },
+        "anchor7": {
+          "coordinates": {
+            "x": 0,
+            "y": 612,
+            "z": 1
+          }
+        },
+        "anchor8": {
+          "coordinates": {
+            "x": 570,
+            "y": 455,
+            "z": 1
+          }
+        }
+      },
+      "information": {
+        "address": "UET - Xuan Thuy, Cau Giay",
+        "name": "Floor1, UET - Xuan Thuy, Cau Giay"
+      },
+      "product": {
+        "product5": {
+          "coordinates": {
+            "x": 100,
+            "y": 150,
+            "z": 70
+          },
+          "details": {
+            "ID": "17",
+            "building": "UET - Xuan Thuy, Cau Giay",
+            "customer": "G-Dragon",
+            "floor": 2,
+            "staff": "Lee Min Ho",
+            "tag": "apple",
+            "time": "2024-01-06",
+            "timeOut": "2024-06-07"
+          }
+        },
+        "product6": {
+          "coordinates": {
+            "x": 200,
+            "y": 200,
+            "z": 70
+          },
+          "details": {
+            "ID": "18",
+            "building": "UET - Xuan Thuy, Cau Giay",
+            "customer": "G-Dragon",
+            "floor": 2,
+            "staff": "Lee Min Ho",
+            "tag": "mango",
+            "time": "2024-01-07",
+            "timeOut": "2024-06-07"
+          }
+        },
+        "product7": {
+          "coordinates": {
+            "x": 300,
+            "y": 300,
+            "z": 70
+          },
+          "details": {
+            "ID": "19",
+            "building": "UET - Xuan Thuy, Cau Giay",
+            "customer": "G-Dragon",
+            "floor": 2,
+            "staff": "Lee Min Ho",
+            "tag": "banana",
+            "time": "2024-03-06",
+            "timeOut": "2024-06-07"
+          }
+        },
+        "product8": {
+          "coordinates": {
+            "x": 557,
+            "y": 177,
+            "z": 70
+          },
+          "details": {
+            "ID": "20",
+            "building": "UET - Xuan Thuy, Cau Giay",
+            "customer": "G-Dragon",
+            "floor": 2,
+            "staff": "Lee Min Ho",
+            "tag": "Asus Laptop",
+            "time": "2024-03-09",
+            "timeOut": "2024-06-07"
+          }
+        }
+      }
+    },
+    "floor3": {
+      "anchor": {
+        "anchor10": {
+          "coordinates": {
+            "x": 635,
+            "y": 120,
+            "z": 1
+          }
+        },
+        "anchor11": {
+          "coordinates": {
+            "x": 0,
+            "y": 612,
+            "z": 1
+          }
+        },
+        "anchor12": {
+          "coordinates": {
+            "x": 570,
+            "y": 455,
+            "z": 1
+          }
+        },
+        "anchor9": {
+          "coordinates": {
+            "x": 0,
+            "y": 0,
+            "z": 1
+          }
+        }
+      },
+      "information": {
+        "address": "UET - Xuan Thuy, Cau Giay",
+        "name": "Floor1, UET - Xuan Thuy, Cau Giay"
+      },
+      "product": {
+        "product10": {
+          "coordinates": {
+            "x": 310,
+            "y": 210,
+            "z": 70
+          },
+          "details": {
+            "ID": "21",
+            "building": "UET - Xuan Thuy, Cau Giay",
+            "customer": "G-Dragon",
+            "floor": 3,
+            "staff": "Lee Min Ho",
+            "tag": "Pro M3",
+            "time": "2024-03-06",
+            "timeOut": "2024-06-07"
+          }
+        },
+        "product11": {
+          "coordinates": {
+            "x": 12,
+            "y": 311,
+            "z": 70
+          },
+          "details": {
+            "ID": "22",
+            "building": "UET - Xuan Thuy, Cau Giay",
+            "customer": "G-Dragon",
+            "floor": 3,
+            "staff": "Lee Min Ho",
+            "tag": "Serial 4",
+            "time": "2024-03-06",
+            "timeOut": "2024-06-07"
+          }
+        },
+        "product12": {
+          "coordinates": {
+            "x": 557,
+            "y": 177,
+            "z": 70
+          },
+          "details": {
+            "ID": "23",
+            "building": "UET - Xuan Thuy, Cau Giay",
+            "customer": "G-Dragon",
+            "floor": 3,
+            "staff": "Lee Min Ho",
+            "tag": "Asus Laptop",
+            "time": "2024-03-09",
+            "timeOut": "2024-06-07"
+          }
+        },
+        "product9": {
+          "coordinates": {
+            "x": 100,
+            "y": 50,
+            "z": 70
+          },
+          "details": {
+            "ID": "24",
+            "building": "UET - Xuan Thuy, Cau Giay",
+            "customer": "G-Dragon",
+            "floor": 3,
+            "staff": "Lee Min Ho",
+            "tag": "15 Promax",
+            "time": "2024-03-06",
+            "timeOut": "2024-06-07"
+          }
+        }
+      }
+    }
+  }
+}
